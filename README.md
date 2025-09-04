@@ -9,9 +9,9 @@ The project demonstrates how **sensor integration + actuator control** can be co
 ## 📸 Project Demo
 
 ### Hardware in Action
-| LCD & Sensor Output | Servo Weather Indicator |
+| OUTPUT 1 | OUTPUT 2 |
 |----------------------|--------------------------|
-| ![LCD Output](file-4DqfY52pep1oAxgYW3fd6R) | ![Servo Indicator](file-PtxzFBaSUuMsykSwtLj8Tg) |
+| ![Output](https://github.com/nishantmohanani59-tech/Arduino-Weather-Detector/blob/main/project_prototype.jpg) | ![OUTPUT](https://github.com/nishantmohanani59-tech/Arduino-Weather-Detector/blob/main/project_prototype2.jpg) |
 
 ---
 
@@ -40,7 +40,7 @@ The project demonstrates how **sensor integration + actuator control** can be co
 ## 🔌 Circuit Diagram
 Below is the circuit wiring for the system:  
 
-![Circuit Diagram](file-X69KFhtmPpJZ5QJGbAr7Sp)
+![Circuit Diagram](https://github.com/nishantmohanani59-tech/Arduino-Weather-Detector/blob/main/Schematics.jpg)
 
 ---
 
